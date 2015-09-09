@@ -20,6 +20,7 @@ event onReady:
 gconnect.onReady(function(){
   console.log('listo para usar google connect');
 });
+```
 
 evento onInfoUser:
 ```js
